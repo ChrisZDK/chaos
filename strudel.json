@@ -37,11 +37,14 @@
 "atlast2.wav",
 "atlast3.wav",
 "atlast4.wav",
+"1thespace.wav",
+"2thespace.wav"
+  ],
+  
+  "cinematic": [
 "deepforest.wav",
 "shigeosekito.wav",
 "waystar.wav",
-"1thespace.wav",
-"2thespace.wav",
 "forestdwelling.wav"
   ],
   
@@ -66,18 +69,6 @@
 "chaotic_vox_2.wav"
   ],
   
-  "dnb_1": [   
-"dnb_87_bbm.wav",
-"dnb_87_Ff.wav",
-"dnb_87_Fm.wav"
-  ],
-	
-  "breakcore_1": [   
-"breakbeat_71_Fm.wav",
-"breakcore2_84_B.wav",
-"breakcore_84_B.wav"
-  ],
-
   "htechno_1": [   
 "htechno1_150_B.wav",
 "htechno2_150_B.wav",
@@ -87,7 +78,7 @@
 "htechno7_150_B.wav"
   ],
   
-    "lofi_1": [   
+  "lofi_1": [   
 "lofi1_102-Am.wav",
 "lofifi2-102-Am.wav",
 "lofi_124_Am.wav",
@@ -97,7 +88,89 @@
 "lofi_93-C.wav",
 "lofi_94_Am.wav"
   ],
+ 
+  "dnb_1": [   
+"dnb_87_bbm.wav",
+"dnb_87_Ff.wav",
+"dnb_87_Fm.wav"
+  ],
   
+  "breakcore_1": [
+"breakbeat_71_Fm.wav",
+"breakcore2_84_B.wav",
+"breakcore_84_B.wav"
+  ],
+
+  "breakcore_2": [
+"breakcore1_96_Cf.wav",
+"breakcore2_96_Cf.wav",
+"breakcore3_96_Cf.wav",
+"breakcore4_96_Cf.wav",
+"breakcore5_96_Cf.wav",
+"breakcore6_96_Cf.wav",
+"breakcore7_96_Cf.wav",
+"breakcore8_96_Cf.wav",
+"breakcore9_96_Cf.wav",
+"breakcore10_96_Cf.wav",
+"breakcore11_96_Cf.wav"
+  ],
+
+  "breakcore_3": [
+"breakcore1_96_Ffm.wav",
+"breakcore2_96_Ffm.wav",
+"breakcore3_96_Ffm.wav",
+"breakcore4_96_Ffm.wav",
+"breakcore5_96_Ffm.wav",
+"breakcore6_96_Ffm.wav",
+"breakcore7_96_Ffm.wav",
+  ],
+
+  "darkcore_1": [
+"darkcore1_95_Fm.wav",
+"darkcore2_95_Fm.wav",
+"darkcore3_95_Fm.wav",
+"darkcore1_95_Ebm.wav",
+"darkcore2_95_Ebm.wav",
+"darkcore3_95_Ebm.wav"
+  ],
+
+  "halftime_1": [
+"halftime1_87_Cf.wav",
+"halftime2_87_Cf.wav",
+"halftime3_87_Cf.wav",
+"halftime4_87_Cf.wav",
+"halftime5_87_Cf.wav",
+"halftime6_87_Cf.wav",
+"halftime7_87_Cf.wav",
+"halftime8_87_Cf.wav",
+"halftime9_87_Cf.wav",
+"halftime10_87_Cf.wav",
+"halftime11_87_Cf.wav"
+  ],
+
+  "htbrazil_1": [
+"htbrazil1_72_A.wav",
+"htbrazil2_72_A.wav",
+"htbrazil1_135_Bbm.wav",
+"htbrazil2_135_Bbm.wav",
+"htbrazil3_135_Bbm.wav",
+"htbrazil4_135_Bbm.wav",
+"htbrazil5_135_Bbm.wav",
+  ],
+
+  "technoid_1": [
+"technoid1_132_Am.wav",
+"technoid2_132_Am.wav",
+"technoid3_132_Am.wav",
+"technoid4_132_Am.wav",
+"technoid5_132_Am.wav",
+"technoid6_132_Am.wav",
+"technoid7_132_Am.wav",
+"technoid8_132_Am.wav",
+"technoid9_132_Am.wav",
+"technoid10_132_Am.wav"
+  ],
+
 "Serenissima_drums": [ "Serenissima_drums.wav" ]
 
 }
