@@ -1,0 +1,103 @@
+{
+"_base": "https://raw.githubusercontent.com/ChrisZDK/chaos/main/",
+
+  "break": [
+"1_break.wav",
+"2_break.wav",
+"3_break.wav",
+"4_break.wav",
+"5_break.wav",
+"6_break.wav"
+  ],
+  
+  "barok": [
+"barok_voice_break.wav",
+"barok_voice_drop.wav",
+"barok_voice_lute.wav",
+"barok_voice_muu.wav",
+"barok_voice_pain.wav",
+"barok_voice_shall.wav",
+"barok_voice_shallall.wav"
+  ],
+
+  "SpeedyJ": [
+"aSpeedy1.wav",
+"bSpeedy2.wav"
+  ],
+
+  "vox": [
+"bassoon.wav",
+"radicalmind.wav",
+"femi.wav"
+  ],
+
+  "jazzy": [
+"almostblue.wav",
+"atlast1.wav",
+"atlast2.wav",
+"atlast3.wav",
+"atlast4.wav",
+"deepforest.wav",
+"shigeosekito.wav",
+"waystar.wav",
+"1thespace.wav",
+"2thespace.wav",
+"forestdwelling.wav"
+  ],
+  
+  "chaossynth": [
+"chaos_synth_1.wav",
+"chaos_synth_2.wav",
+"chaos_synth_3.wav",
+"chaos_synth_4.wav",
+"chaos_synth_5.wav",
+"chaotic_synth_6.wav",
+"chaotic_synth_7.wav",
+"chaotic_synth_8.wav"
+  ],
+  
+  "chaosinstr_1": [
+"chaotic_bass_1.wav",
+"chaotic_piano_1.wav",
+"chaotic_piano_2.wav",
+"chaotic_sax_1.wav",
+"chaotic_sax_2.wav",
+"chaotic_vox_1.wav",
+"chaotic_vox_2.wav"
+  ],
+  
+  "dnb_1": [   
+"dnb_87_bbm.wav",
+"dnb_87_Ff.wav",
+"dnb_87_Fm.wav"
+  ],
+	
+  "breakcore_1": [   
+"breakbeat_71_Fm.wav",
+"breakcore2_84_B.wav",
+"breakcore_84_B.wav"
+  ],
+
+  "htechno_1": [   
+"htechno1_150_B.wav",
+"htechno2_150_B.wav",
+"htechno3_150_B.wav",
+"htechno5_150_B.wav",
+"htechno6_150_B.wav",
+"htechno7_150_B.wav"
+  ],
+  
+    "dnb_1": [   
+"lofi1_102-Am.wav",
+"lofifi2-102-Am.wav",
+"lofi_124_Am.wav",
+"lofi_60-Em.wav",
+"lofi_87-F.wav",
+"lofi_91_Bm.wav",
+"lofi_93-C.wav",
+"lofi_94_Am.wav"
+  ],
+  
+"Serenissima_drums": [ "Serenissima_drums.wav" ]
+
+}
