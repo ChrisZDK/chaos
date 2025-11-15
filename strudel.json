@@ -1,6 +1,19 @@
 {
 "_base": "https://raw.githubusercontent.com/ChrisZDK/chaos/main/",
 
+  "technoid_1": [
+"technoid1_132_Am.wav",
+"technoid2_132_Am.wav",
+"technoid3_132_Am.wav",
+"technoid4_132_Am.wav",
+"technoid5_132_Am.wav",
+"technoid6_132_Am.wav",
+"technoid7_132_Am.wav",
+"technoid8_132_Am.wav",
+"technoid9_132_Am.wav",
+"technoid10_132_Am.wav"
+  ],
+
   "break": [
 "1_break.wav",
 "2_break.wav",
@@ -156,19 +169,6 @@
 "htbrazil3_135_Bbm.wav",
 "htbrazil4_135_Bbm.wav",
 "htbrazil5_135_Bbm.wav",
-  ],
-
-  "technoid_1": [
-"technoid1_132_Am.wav",
-"technoid2_132_Am.wav",
-"technoid3_132_Am.wav",
-"technoid4_132_Am.wav",
-"technoid5_132_Am.wav",
-"technoid6_132_Am.wav",
-"technoid7_132_Am.wav",
-"technoid8_132_Am.wav",
-"technoid9_132_Am.wav",
-"technoid10_132_Am.wav"
   ],
 
 "Serenissima_drums": ["Serenissima_drums.wav"]
