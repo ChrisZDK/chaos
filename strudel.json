@@ -75,6 +75,11 @@
 "fx_2.wav",
 "fx_4.wav"
 ],
+
+"perc_1": [
+"perc_1.wav",
+"perc_2.wav",
+],
   
   "htechno_1": [   
 "htechno1_150_B.wav",
@@ -92,6 +97,20 @@
 "htechno_76_F_4.wav",
 "htechno_76_F_5.wav",
 "htechno_76_F_6.wav"
+],
+
+"rave_1": [
+"rave1_83_Abm_1.wav",
+"rave1_83_Abm_2.wav",
+"rave1_83_Abm_3.wav",
+"rave1_88_Ff_1.wav",
+"rave1_88_Ff_2.wav",
+"rave1_90_B_1.wav",
+"rave1_90_B_2.wav",
+"rave1_90_B_3.wav",
+"rave1_90_B_4.wav",
+"rave1_90_B_5.wav",
+"rave1_90_B_6.wav",
 ],
 
 "schranz_1": [
